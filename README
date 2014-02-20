@@ -1,1 +1,10 @@
 A program written in Python designed to deal with mathematical matrices, this is my first repo/foray in GitHub so it's also a test of that.
+
+To Do:
+- Change from using "Canvas" module for GUI to using proper Tkinter module
+
+- Use this Tkinter module to display results inside the GUI, rather than relying on the Python shell
+
+- Run performance tests on very large matrices (Find out if there are faster routes eg. dictionaries?)
+
+- Add more functions. Suggestions?
