@@ -8,3 +8,10 @@ To Do:
 - Run performance tests on very large matrices (Find out if there are faster routes eg. dictionaries?)
 
 - Add more functions. Suggestions?
+
+Install Dependencies
+====================
+- Python 2.7
+
+
+Currently runs from "The Matrixonator 9000.py".
